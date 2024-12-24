@@ -1,0 +1,1 @@
+This error occurs when using the useState hook in React Native and you try to update the state with a value that is different from the previous state value, causing a mismatch and throwing an error. This typically happens when you are working with asynchronous operations, and the state update happens after the component has unmounted.
